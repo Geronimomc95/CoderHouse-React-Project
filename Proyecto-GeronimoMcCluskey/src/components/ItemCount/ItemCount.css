@@ -1,0 +1,31 @@
+.item-count-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+    margin-top: 20px; 
+  }
+  
+  .count-buttons {
+    margin-bottom: 20px; 
+  }
+  
+  .count-button {
+    font-size: 18px;
+    margin: 0 5px;
+  }
+  
+  .count {
+    font-size: 14px;
+    font-weight: bolder;
+    margin: 0 10px;
+  }
+
+  .add-to-cart-button{
+    margin-top: 5px;
+  }
+  
+  
+ 
+  
