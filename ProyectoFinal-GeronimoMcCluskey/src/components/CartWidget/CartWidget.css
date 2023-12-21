@@ -1,0 +1,17 @@
+
+.iconoCarrito {
+    font-size: 24px; 
+    color: rgb(0, 0, 0); 
+}
+
+.iconoCantidadContainer {
+    display: flex;
+    align-items: center;
+}
+
+.cantidadCarrito {
+    margin-left: 5px; 
+    text-decoration: none; 
+    color: black; 
+}
+

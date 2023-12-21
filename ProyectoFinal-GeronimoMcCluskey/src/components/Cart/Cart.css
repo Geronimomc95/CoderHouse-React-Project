@@ -1,0 +1,25 @@
+h3 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.OptionCart {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: #010101;
+    border: none;
+    border-radius: 5px;
+    background-color: #e0e9ef; 
+    transition: background-color 0.3s, color 0.3s; 
+  }
+  
+  .OptionCart:hover {
+    background-color: #0a0a0a; 
+    color: white;
+  }
+  
